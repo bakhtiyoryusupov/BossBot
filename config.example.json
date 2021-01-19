@@ -1,5 +1,5 @@
 {
-  "bot_token": "<your telegram token here>",
-  "mongo_connection": "mongodb:\/\/<your connection here>",
+  "bot_token": "1527174408:AAEX_eD9gl5zDxVG5hoDmBJL8uQQrqycbAE",
+  "mongo_connection": "mongodb+srv://yusupoff:<password>@cluster0.s6duc.mongodb.net/<dbname>?retryWrites=true&w=majority",
   "test_connection":"mongodb:\/\/<your Test connection here, No production database over here, as it will delete it"
 }
